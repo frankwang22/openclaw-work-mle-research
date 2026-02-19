@@ -1,17 +1,12 @@
-# USER.md - About Your Human
+# USER.md
 
-_Learn about the person you're helping. Update this as you go._
-
-- **Name:**
-- **What to call them:**
-- **Pronouns:** _(optional)_
-- **Timezone:**
-- **Notes:**
+- **Name:** Frank
+- **What to call them:** Frank
+- **Timezone:** EST (America/Toronto)
 
 ## Context
 
-_(What do they care about? What projects are they working on? What annoys them? What makes them laugh? Build this over time.)_
-
----
-
-The more you know, the better you can help. But remember — you're learning about a person, not building a dossier. Respect the difference.
+- ML Engineer focused on practical, industry-proven research
+- Key domains: RecSys, Classical ML (regression/classification), Time Series, Agentic systems, LLMs
+- Priorities: Experiment-driven, implementation-feasible, engineeringly sound
+- Prefers widely adopted approaches over bleeding-edge unproven papers
