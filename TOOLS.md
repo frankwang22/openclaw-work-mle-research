@@ -10,6 +10,11 @@
 - **Web fetch:** For reading arxiv abstracts, blog posts, documentation
 - **File workspace:** For drafting literature reviews, comparison tables, implementation notes
 
+## GitHub (HouseSigma)
+- **Frank's work account:** frankwang-hs
+- **My access:** Write — create branches, commit, create PRs
+- **RULE: NEVER push to main.** Always feature branches + PRs for Frank to review.
+
 ## Shared Context (all agents can access)
 - **Location:** C:\Users\frank\.openclaw\shared\
 - **NOTION.md** — Notion workspace map (databases, IDs, schema)
